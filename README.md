@@ -16,9 +16,9 @@
 
 I’m **Parthib Ghosh**, a **BCA student** and passionate **developer-in-progress**, crafting functional and modern software with clean logic and strong backend focus.
 
-- 🔥 Learning **Python, C++, PHP & JavaScript**
-- 🚀 Exploring **backend systems, AI tools & API development**
-- 🛠️ Building real-world, practical applications
+- 🔥 Learning **Python, HTML, CSS, C++, PHP & JavaScript**
+- 🚀 Exploring **Frontend design, backend systems, AI tools & API development**
+- 🛠️ Building real-world, practical applications & Website
 - ✉️ Email: **parthibghosh5@gmail.com**
 
 ---
